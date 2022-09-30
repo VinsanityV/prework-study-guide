@@ -8,6 +8,9 @@ The included project is a study guide of some of the main points of the pre work
 - I built this project to reference back when i feel discouraged so i can remember where i came from and how much i ahve learned.
 - The structures and definitions of web building is a complicated but rewarding practice. The utilization of html framework and CSS styling really allow the content to be shaped to the developers intent and js allows usability and interaction. I look forward to continuing my journey and buliding more complex projects!
 
+VIEW: To view the deployed web page please click this link
+<a> href=https://vinsanityv.github.io/prework-study-guide/</a>
+
 ## Installation
 
 N/A
